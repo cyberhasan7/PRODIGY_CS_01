@@ -1,0 +1,24 @@
+
+2024-11-17 12:24:08,961 - Honeypot listening on 0.0.0.0:2222
+2024-11-17 12:28:54,045 - Honeypot listening on 0.0.0.0:2222
+2024-11-17 12:29:51,513 - Connection attempt from ('192.168.81.142', 61239)
+2024-11-17 12:29:54,083 - Credentials from ('192.168.81.142', 61239): h/j
+2024-11-17 12:29:59,815 - Data received from ('192.168.81.142', 61239): x
+2024-11-17 12:29:59,815 - Unknown command received: x
+2024-11-18 22:41:28,017 - Honeypot listening on 0.0.0.0:2222
+2024-11-18 22:41:37,776 - Connection attempt from ('192.168.81.142', 65188)
+2024-11-18 22:41:42,116 - Credentials from ('192.168.81.142', 65188): d/s
+2024-11-18 22:41:42,120 - Data received from ('192.168.81.142', 65188): a
+2024-11-18 22:41:42,120 - Unknown command received: a
+2024-11-18 22:42:04,742 - Connection attempt from ('127.0.0.1', 6
+2024-11-18 22:42:08,935 - Credentials from ('127.0.0.1', 65223): h/a
+2024-11-18 22:42:26,303 - Data received from ('127.0.0.1', 65223): x
+2024-11-18 22:42:26,303 - Unknown command received: x
+2024-11-18 22:45:36,770 - Honeypot listening on 0.0.0.0:2222
+2024-11-18 22:45:42,322 - Honeypot listening on 0.0.0.0:2222
+2024-11-18 22:46:11,759 - Connection attempt from ('192.168.81.142', 65492)
+2024-11-18 22:46:13,522 - Credentials from ('192.168.81.142', 65492): h/a
+2024-11-18 22:46:13,716 - Data received from ('192.168.81.142', 65492): s
+2024-11-18 22:46:13,717 - Unknown command received: s
+2024-11-27 21:58:57,186 - Honeypot listening on 0.0.0.0:2222
+2024-11-27 22:39:42,802 - Honeypot listening on 0.0.0.0:2222
